@@ -1,0 +1,11 @@
+# IDE-generated files
+.idea/
+.gradle/
+/local.properties
+*.iml
+*.apk
+*.aab
+*.log
+.DS_Store
+/build
+/app/build
